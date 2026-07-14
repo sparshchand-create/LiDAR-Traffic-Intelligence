@@ -8,7 +8,8 @@ An AI-powered web application for visualizing, querying, and analyzing **Ouster 
 🌐 **Live Demo:**  
 https://sparshchand-create.github.io/LiDAR-Traffic-Intelligence/
 
-LiDAR Point Cloud
+
+**LiDAR Point Cloud**
 
 <img width="968" height="461" alt="image" src="https://github.com/user-attachments/assets/23b6beff-0ce4-49db-a39c-f18baa4c3f49" />
 
