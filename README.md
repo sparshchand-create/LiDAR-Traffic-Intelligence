@@ -6,7 +6,7 @@
 An AI-powered web application for visualizing, querying, and analyzing **Ouster Digital LiDAR** traffic data. The platform transforms raw LiDAR trajectories into interactive visualizations and transportation safety analytics, enabling researchers and engineers to explore traffic operations, object behavior, and surrogate safety metrics.
 
 🌐 **Live Demo:**  
-https://sparshchand-create.github.io/LiDAR-Traffic-Intelligence/
+https://sparshchand.github.io/LiDAR-Traffic-Intelligence/
 
 
 # **LiDAR Point Cloud**
